@@ -1,0 +1,44 @@
+/* Inserta tu código aqui */
+.espacio{
+	margin-top: 10px;
+}
+.abajo-1{
+	border: solid black 5px;
+}
+nav{
+	background: white;
+}
+.bg-gris{
+	background-color: gray;
+	width: 40%;
+	height: 15%;
+}
+.blanca{
+	color: white;
+}
+a{
+	list-style: none;
+	color: black;
+}
+.bg-negro{
+	color: white;
+	background-color: black;
+	width: 20%;
+	padding :3%;
+
+}
+.bg-gri{
+	background-color: gray;
+	width: 100%;
+	height: 100%;
+	padding:5px;
+}
+.hd:hover{
+ background-color: white;	
+}
+.tam{
+	font-size: 100%;
+}
+ul{
+	list-style: none;
+}
